@@ -1,0 +1,19 @@
+{
+  "name": "Client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jquery-1.12.0.min.js",
+  "dependencies": {
+    "sqlite3": "^3.1.13",
+    "indexeddb-js": "^0.0.14"
+  },
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
